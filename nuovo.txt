@@ -2,4 +2,3 @@ ciao amici
 riga2
 riga3
 riga4
-aggiungo riga infondo
